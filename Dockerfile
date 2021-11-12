@@ -1,2 +1,2 @@
 FROM nginx
-COPY Lab3-1 /usr/share/nginx/html
+COPY itf /usr/share/nginx/html
